@@ -16,7 +16,7 @@ Cybersecurity enthusiast, documenting my learning journey through security labs 
 
 ## Take a look at my latest CTF
 
-👉 **[Athena CTF](/Athena/)**  
+👉 **[Athena CTF](https://github.com/Dassan17/CTF-Writeups/tree/main/Athena)**  
 Key topics in this write-up:
 
 - Service enumeration & command injection
