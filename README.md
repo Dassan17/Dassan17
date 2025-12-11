@@ -27,4 +27,4 @@ Key topics in this write-up:
 
 - 💼 LinkedIn: [link](https://www.linkedin.com/in/dario-cassano-92515629b/)
 
-Always open to feedback and suggestions on my write-ups and projects.
+**Always open to feedback and suggestions on my write-ups and projects.**
