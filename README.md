@@ -14,15 +14,17 @@ Cybersecurity enthusiast, documenting my learning journey through security labs 
 - 🛠️ **Small security labs & experiments** – scripts, PoC and practice projects (in progress)  
 - 📝 **Learning notes** – concepts I don’t want to forget
 
-## Take a look at my latest CTF
+## Take a look at my latest work
 
 👉 **[Athena CTF](https://github.com/Dassan17/CTF-Writeups/tree/main/Athena)**  
-Key topics in this write-up:
-
 - Service enumeration & command injection
 - Privilege escalation via backup script and kernel rootkit module
 - Reverse engineering of a custom kernel module and root function
-  
+👉 **[Mongobleed POC](https://github.com/Dassan17/CTF-Writeups/tree/main/CVE-2025-14847)**
+- Replicating the environment using a realistic AWS network topology (VPC, Private Subnets, NAT).
+- Analysis of the MongoDB Wire Protocol and BSON serialization.
+- Exploiting Zlib compression to manipulate memory allocation and leak server RAM.
+
 ## Let's connect!
 
 - 💼 LinkedIn: [link](https://www.linkedin.com/in/dario-cassano-92515629b/)
