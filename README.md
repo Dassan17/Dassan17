@@ -20,6 +20,7 @@ Cybersecurity enthusiast, documenting my learning journey through security labs 
 - Service enumeration & command injection
 - Privilege escalation via backup script and kernel rootkit module
 - Reverse engineering of a custom kernel module and root function
+  
 👉 **[Mongobleed POC](https://github.com/Dassan17/CTF-Writeups/tree/main/CVE-2025-14847)**
 - Replicating the environment using a realistic AWS network topology (VPC, Private Subnets, NAT).
 - Analysis of the MongoDB Wire Protocol and BSON serialization.
