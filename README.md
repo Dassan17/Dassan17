@@ -1,33 +1,9 @@
-# Hi, I'm Dario 👋
+## Dario Cassano
 
-Cybersecurity enthusiast, documenting my learning journey through security labs and CTF write-ups.
+Computer Engineering student at Politecnico di Milano.
 
-- 🎓 BSc Computer Engineering student @ Politecnico di Milano (PoliMi)
-- 🔐 Interested in cybersecurity, CTFs and threat intelligence
-- 📚 Learning every day and sharing notes & write-ups here on GitHub
+Since September 2025 I've been an undergraduate researcher at NECSTLab, where I work on the security of machine learning models within the LEONARDO project.
 
----
+In 2026 I took part in the CyberChallenge.IT training program.
 
-## What you’ll find here
-
-- 🧩 **CTF write-ups** – step-by-step notes from challenges that helped me learn the most, currently publishing once a week.
-- 🛠️ **Small security labs & experiments** – scripts, PoC and practice projects (in progress)  
-- 📝 **Learning notes** – concepts I don’t want to forget
-
-## Take a look at my latest work
-
-👉 **[Athena CTF](https://github.com/Dassan17/CTF-Writeups/tree/main/Athena)**  
-- Service enumeration & command injection
-- Privilege escalation via backup script and kernel rootkit module
-- Reverse engineering of a custom kernel module and root function
-  
-👉 **[Mongobleed POC](https://github.com/Dassan17/CTF-Writeups/tree/main/CVE-2025-14847)**
-- Replicating the environment using a realistic AWS network topology (VPC, Private Subnets, NAT).
-- Analysis of the MongoDB Wire Protocol and BSON serialization.
-- Exploiting Zlib compression to manipulate memory allocation and leak server RAM.
-
-## Let's connect!
-
-- 💼 LinkedIn: [link](https://www.linkedin.com/in/dario-cassano-92515629b/)
-
-**Always open to feedback and suggestions on my write-ups and projects.**
+[LinkedIn](https://www.linkedin.com/in/dario-cassano/)
